@@ -1,30 +1,37 @@
-  # DevOS Project
+# DevOS Project
 
-  **AI-Powered Development Orchestration System**
+**AI-Powered Development Orchestration System**
 
-  DevOS automates software development workflows using AI agents, task orchestration, and intelligent coordination.
+DevOS automates software development workflows using AI agents, task orchestration, and intelligent coordination.
 
-  🏢 **Built by [Effective Momentum](https://effectivemomentum.com)**
+🏢 **Built by [Effective Momentum](https://effectivemomentum.com)**
 
-  ## 🚀 Get Started
+## 🚀 Get Started
 
-  ```bash
-  curl -fsSL https://devos-project.github.io/install.sh | sh
+```bash
+curl -fsSL https://raw.githubusercontent.com/devos-project/devos/latest/install.sh | sh
+```
 
-  📦 Repositories
+Or visit [Releases](https://github.com/devos-project/devos/releases) to download binaries directly.
 
-  - https://github.com/devos-project/devos - Main CLI and binary releases
-  - More coming soon...
+## 📦 Repositories
 
-  📖 Documentation
+- [devos](https://github.com/devos-project/devos) - Main CLI and binary releases
+- More coming soon...
 
-  Visit our https://github.com/devos-project/devos/wiki to learn more.
+## 📖 Documentation
 
-  💬 Community
+Visit our [Wiki](https://github.com/devos-project/devos/wiki) to learn more.
 
-  - 🐛 https://github.com/devos-project/devos/issues
-  - 💡 https://github.com/devos-project/devos/discussions
+## 💬 Community
 
-  📧 Contact
+- 🐛 [Report Issues](https://github.com/devos-project/devos/issues)
+- 💡 [Discussions](https://github.com/devos-project/devos/discussions)
 
-  For enterprise inquiries and support, contact https://effectivemomentum.com/contact
+## 📧 Contact
+
+For enterprise inquiries and support, visit [Effective Momentum](https://effectivemomentum.com/contact).
+
+---
+
+Copyright © 2024-2025 Effective Momentum
